@@ -34,15 +34,15 @@ C:\>type NUL > arquivo.txt
 O comando **echo** exibe mensagens ou ativa/desativa o recurso de eco de comando.
 Se usado sem parâmetros, o eco exibirá a configuração de eco atual.
 ```cmd
-C:\>echo Qualquer mensagem como exemplo
+C:\>echo Sempre foi mais fácil destruir do que criar. (Spock)
 ```
 Gravar uma saída de texto em arquivo
 ```cmd
-C:\>echo Texto simples para demonstração > arquivo.txt
+C:\>echo A lógica é apenas o princípio da sabedoria, e não o seu fim. (Spock) > arquivo.txt
 ```
 Acrescentar uma saída de texto em arquivo
 ```cmd
-C:\>echo Texto simples para demonstração >> arquivo.txt
+C:\>echo A vida é como um jardim.(Spock) >> arquivo.txt
 ```
 Para acrescentar o texto foi utilizado o operador de redirecionamento **">>"**<br/>
 **Nota:** Para visualizar o conteúdo do arquivo baste usar o comando type:
