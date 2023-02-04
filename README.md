@@ -96,5 +96,5 @@ Comando usado para excluir 📁
 ```cmd
 C:\>rmdir /s pasta_pai
 ```
-**Nota:📌** Emitindo o Parâmetro **/s** é possível excluir o diretório e seus subdiretórios, incluindo todos os arquivos.
+**Nota:📌** Informando o parâmetro **/s** é possível excluir o diretório e seus subdiretórios, incluindo todos os arquivos.
 
